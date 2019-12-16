@@ -1,1 +1,1 @@
-# Responsive-emailer
+Sample two column based responsive emailer
